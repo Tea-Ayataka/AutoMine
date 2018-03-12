@@ -1,0 +1,7 @@
+key.automine.desc=Toggle AutoMine
+key.automine_mine.desc=Toggle Auto Mining
+key.automine_cut.desc=Toggle Auto Cutting
+key.automine.category=AutoMine (VeinMiner)
+msg.automine.mining=Mining
+msg.automine.cutting=Cutting
+msg.automine.invalid=Error: AutoMine not detected on this server

@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "automine",
+    "name": "AutoMine",
+    "description": "A useful mod for mining veins",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Riku"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      "[1.9,)"
+    ]
+  }
+]

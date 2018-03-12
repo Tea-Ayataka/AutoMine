@@ -1,0 +1,7 @@
+key.automine.desc=AutoMineの切り替え
+key.automine_mine.desc=自動採掘の切り替え
+key.automine_cut.desc=自動伐採の切り替え
+key.automine.category=AutoMine (一括破壊)
+msg.automine.mining=採掘
+msg.automine.cutting=伐採
+msg.automine.invalid=エラー: このサーバーでAutoMineが検出できません
